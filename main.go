@@ -1,18 +1,9 @@
-/*
-Copyright 2018 The go-eam Authors
-This file is part of the go-eam library.
-
-go-eam
-以太坊地址交易监控程序，使用以太坊api接口，查询指定以太坊地址下的交易记录。
-并将记录数据保存到数据库中
-
-
-wanglei.ok@foxmail.com
-
-1.0
-版本时间：2018年5月7日18:32:12
-
-*/
+/**
+ * Created by Adwind.
+ * User: liuyunlong
+ * Date: 11/7/18
+ * Time: 16:36
+ */
 
 package main
 

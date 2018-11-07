@@ -1,17 +1,9 @@
-/*
-Copyright 2018 The go-eam Authors
-This file is part of the go-eam library.
-
-database
-封装数据库相关操作
-
-
-wanglei.ok@foxmail.com
-
-1.0
-版本时间：2018年4月13日18:32:12
-
-*/
+/**
+ * Created by Adwind.
+ * User: liuyunlong
+ * Date: 11/7/18
+ * Time: 16:36
+ */
 
 package database
 
