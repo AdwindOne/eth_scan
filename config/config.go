@@ -37,5 +37,5 @@ type (
 
 func ReadConfig() error {
 	//return gcfg.ReadFileInto(&config, iniFileName())
-	return gcfg.ReadFileInto(&Config1, "go-eam.ini")
+	return gcfg.ReadFileInto(&Config1, "eth_scan.ini")
 }
